@@ -1,2 +1,2 @@
 # Personal-A.I-
-My personal A.i
+# project features
