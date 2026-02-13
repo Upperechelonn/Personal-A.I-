@@ -1,2 +1,2 @@
-# Personal-A.I- for my personal use to organize task for any digital platform to command of any system i allow it go on.
+# Personal-A.I- for my personal use to organize task on any digital platform to take command of any system if given the command. allow the a.i go on that platform navigate an give summarize in full details
 # project features
